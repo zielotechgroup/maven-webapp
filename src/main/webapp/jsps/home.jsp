@@ -8,7 +8,7 @@
 </head>
 </head>
 <body>
-<h1 style="color: green" align="center">Welcome to Zielotech Group Of Institutes</h1>
+<h1 style="color: green" align="center">Welcome to AVD</h1>
 <h1 style="color: red" align="center"> We provide master program Trainings on:</h1>
 <br>
 <h3 style="color: blue" align="center"> Linux</h3>
@@ -23,7 +23,7 @@
 	<span style="font-weight: bold;">
 		Trainer: Om Sir <br>
 		Mentored By: Nihar Sir <br>
-		Zielotech Group Of Institutes
+		AVD
 	</span>
 </div>
 
