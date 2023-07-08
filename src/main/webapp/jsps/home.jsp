@@ -27,6 +27,6 @@
 	</span>
 </div>
 
-<p align=center>Zielotech Group Of Institutes - Training, Development Center.</p>
+<p align=center>AVD - Training, Development Center.</p>
 </body>
 </html>
