@@ -1,5 +1,5 @@
 - name: Configuring tomcat
-  hosts: test
+  hosts: all
   tasks:
    - name: Install tomcat9
      apt:
