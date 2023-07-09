@@ -5,5 +5,5 @@
    - name: Install tomcat9
      apt:
       name: tomcat9
-      state: absent
+      state: present
       update_cache: yes
