@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ZielotechTechnologies- Home Page</title>
+<title>AVD GROUP- Home Page</title>
 </head>
 </head>
 <body>
-<h1 style="color: green" align="center">Welcome to Zielotech Group Of Institutes</h1>
+<h1 style="color: green" align="center">Welcome to AVD</h1>
 <h1 style="color: red" align="center"> We provide master program Trainings on:</h1>
 <br>
 <h3 style="color: blue" align="center"> Linux</h3>
@@ -23,10 +23,10 @@
 	<span style="font-weight: bold;">
 		Trainer: Om Sir <br>
 		Mentored By: Nihar Sir <br>
-		Zielotech Group Of Institutes
+		AVD
 	</span>
 </div>
 
-<p align=center>Zielotech Group Of Institutes - Training, Development Center.</p>
+<p align=center>AVD - Training, Development Center.</p>
 </body>
 </html>
