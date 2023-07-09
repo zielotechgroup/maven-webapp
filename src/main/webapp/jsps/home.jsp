@@ -28,5 +28,6 @@
 </div>
 
 <p align=center>AVD - Training, Development Center.</p>
+<p align=center>This is Project session for 2nd Batch dated on 9th July 2023</p>
 </body>
 </html>
