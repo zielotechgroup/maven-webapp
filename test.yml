@@ -1,0 +1,13 @@
+- name: Configuring tomcat
+  hosts: all
+  become: true
+  tasks:
+   - name: Install tomcat9
+     apt:
+       name: tomcat9
+       state: present
+       update_cache: yes
+   - name: Copying war file to webapps
+     copy:
+       src: /var/lib/jenkins/workspace/2nd-job/target/maven-web-application.war
+       dest: /var/lib/tomcat9/webapps
