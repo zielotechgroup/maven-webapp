@@ -1,2 +1,2 @@
 [dev]
-34.203.198.147 ansible_user=ec2-user ansible_python_interpreter=/usr/bin/python2
+54.234.0.208 ansible_user=ec2-user
