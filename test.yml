@@ -6,10 +6,15 @@
       yum:
         name: python-pip
         state: present
-    - name: Install docker
-      yum:
+    - name: Docker repo
+      yum_repository:
         name: docker
-        state: present
+        description: repo for docker
+        baseurl: https://download.docker.com/linux/centos/7/x86_64/stable/
+        gpgcheck: no
+    - name: Installing docker
+      command:
+        cmd: yum install docker-ce --nobest -y
     - name: start docker
       service:
         name: docker
