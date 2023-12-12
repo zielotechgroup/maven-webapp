@@ -13,8 +13,11 @@
         baseurl: https://download.docker.com/linux/centos/7/x86_64/stable/
         gpgcheck: no
     - name: Installing docker
-      command:
-        cmd: yum install docker-ce --nobest -y
+      yum:
+        name: docker-ce
+        state: present
+      # command:
+      #   cmd: yum install docker-ce --nobest -y
     - name: start docker
       service:
         name: docker
